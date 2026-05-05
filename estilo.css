@@ -1,0 +1,27 @@
+h3{
+    padding-top:20px;
+    margin: 10px;
+ font-size: 130%;
+}
+a{
+   font-size:120%;
+    
+    
+}
+img{
+    float: right;
+}
+h1{
+    background-color: blue;
+    color: white;
+}
+h2{
+    padding-left: 10px;
+    font-size: 170%;
+}
+b{
+    font-size:110%; 
+}
+table{
+    float: right;
+}
